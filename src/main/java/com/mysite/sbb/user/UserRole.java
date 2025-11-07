@@ -1,6 +1,5 @@
 package com.mysite.sbb.user;
 import lombok.Getter;
-import lombok.val;
 
 @Getter
 public enum UserRole {
